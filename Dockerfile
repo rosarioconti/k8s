@@ -12,7 +12,7 @@ USER node
 
 #RUN yarn install
 
-RUN nom install
+RUN npm install
 
 # COPY --chown=node:node . .
 COPY . . 
