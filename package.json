@@ -1,0 +1,16 @@
+{
+  "name": "test1app",
+  "version": "0.0.1",
+  "description": "test1app -- ^4.10.2",
+  "dependencies": {
+    "express": "^4.10.2",
+    "redis-sessions": "1.x",
+    "express-session": "^1.0.3",
+    "cookie-parser": "^1.x",
+"cookie": "^0.2.x",
+"passport": "^0.2.0",
+"passport-local": "^1.0.0",
+"body-parser": "^1.0.2"
+
+  }
+}
